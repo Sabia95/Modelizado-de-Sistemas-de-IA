@@ -5,4 +5,4 @@ Trabajos Practicos
 **negrita**
 [Practico 1](#Practica_Unidad_1_Sietemas_Expertos)
 
-[texto](#mi archivo_2)
+[texto](#mi_archivo_2)
